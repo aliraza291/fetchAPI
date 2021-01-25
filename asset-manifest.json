@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/http//aliraza291.github.io/fetchAPI/static/css/main.7e3140fb.chunk.css",
+    "main.js": "/http//aliraza291.github.io/fetchAPI/static/js/main.f7a356d1.chunk.js",
+    "main.js.map": "/http//aliraza291.github.io/fetchAPI/static/js/main.f7a356d1.chunk.js.map",
+    "runtime-main.js": "/http//aliraza291.github.io/fetchAPI/static/js/runtime-main.05279e6c.js",
+    "runtime-main.js.map": "/http//aliraza291.github.io/fetchAPI/static/js/runtime-main.05279e6c.js.map",
+    "static/css/2.150d169a.chunk.css": "/http//aliraza291.github.io/fetchAPI/static/css/2.150d169a.chunk.css",
+    "static/js/2.a7edc6b5.chunk.js": "/http//aliraza291.github.io/fetchAPI/static/js/2.a7edc6b5.chunk.js",
+    "static/js/2.a7edc6b5.chunk.js.map": "/http//aliraza291.github.io/fetchAPI/static/js/2.a7edc6b5.chunk.js.map",
+    "static/js/3.46c7d77a.chunk.js": "/http//aliraza291.github.io/fetchAPI/static/js/3.46c7d77a.chunk.js",
+    "static/js/3.46c7d77a.chunk.js.map": "/http//aliraza291.github.io/fetchAPI/static/js/3.46c7d77a.chunk.js.map",
+    "index.html": "/http//aliraza291.github.io/fetchAPI/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/http//aliraza291.github.io/fetchAPI/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.7e3140fb.chunk.css.map": "/http//aliraza291.github.io/fetchAPI/static/css/main.7e3140fb.chunk.css.map",
+    "static/js/2.a7edc6b5.chunk.js.LICENSE.txt": "/http//aliraza291.github.io/fetchAPI/static/js/2.a7edc6b5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05279e6c.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.a7edc6b5.chunk.js",
+    "static/css/main.7e3140fb.chunk.css",
+    "static/js/main.f7a356d1.chunk.js"
+  ]
+}
