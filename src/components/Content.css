@@ -1,0 +1,12 @@
+.content {
+  color: black;
+  font-weight: 700;
+  font-family: "Times New Roman", Times, serif;
+  padding-top: 150px;
+  padding-bottom: 150px;
+}
+.home {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
